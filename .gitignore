@@ -1,0 +1,43 @@
+# ----------------------------
+# Node.js (backend & frontend)
+# ----------------------------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ----------------------------
+# React frontend
+# ----------------------------
+frontend/build/
+frontend/dist/
+frontend/node_modules/
+
+# ----------------------------
+# Backend (Node.js + Mongo)
+# ----------------------------
+backend/node_modules/
+backend/logs/
+backend/*.log
+
+# ----------------------------
+# Environment files
+# ----------------------------
+*.env
+frontend/.env
+backend/.env
+
+# ----------------------------
+# Editor & OS files
+# ----------------------------
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Misc
+# ----------------------------
+*.tmp
