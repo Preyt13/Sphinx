@@ -68,5 +68,68 @@
     "answer": "Carbon Dioxide",
     "difficulty": "medium",
     "category": "Biology"
+  },
+  {
+    "question": "What is the value of π (pi) up to two decimal places?",
+    "options": ["3.12", "3.14", "3.16", "3.18"],
+    "answer": "3.14",
+    "difficulty": "easy",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["Sahara", "Arctic", "Antarctic", "Gobi"],
+    "answer": "Antarctic",
+    "difficulty": "medium",
+    "category": "Geography"
+  },
+  {
+    "question": "In computing, what does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Transfer Markup Language", "Hyperlink Transfer Making Language", "Hyper Terminal Mark Language"],
+    "answer": "Hyper Text Markup Language",
+    "difficulty": "easy",
+    "category": "Computer Science"
+  },
+  {
+    "question": "Solve: 12 × (3 + 5) ÷ 4",
+    "options": ["18", "20", "24", "26"],
+    "answer": "24",
+    "difficulty": "medium",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "options": ["Amazon", "Yangtze", "Nile", "Mississippi"],
+    "answer": "Nile",
+    "difficulty": "medium",
+    "category": "Geography"
+  },
+  {
+    "question": "What is the main function of an operating system?",
+    "options": ["Run applications only", "Manage hardware and software resources", "Act as an antivirus", "Store user passwords"],
+    "answer": "Manage hardware and software resources",
+    "difficulty": "easy",
+    "category": "Computer Science"
+  },
+  {
+    "question": "If a triangle has sides of 3, 4, and 5 units, what type of triangle is it?",
+    "options": ["Equilateral", "Isosceles", "Scalene", "Right-angled"],
+    "answer": "Right-angled",
+    "difficulty": "easy",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which country has the most time zones?",
+    "options": ["Russia", "United States", "France", "China"],
+    "answer": "France",
+    "difficulty": "hard",
+    "category": "Geography"
+  },
+  {
+    "question": "What does RAM stand for in computers?",
+    "options": ["Read Access Memory", "Random Access Memory", "Rapid Action Memory", "Real Application Memory"],
+    "answer": "Random Access Memory",
+    "difficulty": "easy",
+    "category": "Computer Science"
   }
 ]
